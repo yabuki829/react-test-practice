@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.app-container {
+  display: flex;
+  width: 800px;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  height: 80vh;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px !important;
+}
